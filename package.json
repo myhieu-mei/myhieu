@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ttpthao.github.io/demo-deploy-github-pages/",
+  "homepage": "https://myhieu-mei.github.io/myhieu-mei/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
